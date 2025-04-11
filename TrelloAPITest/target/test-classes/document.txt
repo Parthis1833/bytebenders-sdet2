@@ -1,7 +1,0 @@
-api  key = 7a80158f491840d73839883eff86b6bd
-token =  ATTAb2ed8e844cc29f58477df79dab1ec028094248997892955798af3bb81807abd9E2A16E25
-
-post = https://api.trello.com/1/boards/?name=ByteBenders&key={{YOUR_API_KEY}}&token={{YOUR_TOKEN}}
-get =  https://api.trello.com/1/boards/67f809edacb80fc1672a9424?&key={{YOUR_API_KEY}}&token={{YOUR_TOKEN}}
-put =  https://api.trello.com/1/boards/67f809edacb80fc1672a9424?name=ByteBenders01&key={{YOUR_API_KEY}}&token={{YOUR_TOKEN}}
-delete = https://api.trello.com/1/boards/67f809edacb80fc1672a9424?&key={{YOUR_API_KEY}}&token={{YOUR_TOKEN}}

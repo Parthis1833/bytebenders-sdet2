@@ -1,6 +1,0 @@
-com\trello\api\UpdateBoard.class
-com\trello\api\ReadBoard.class
-com\trello\api\CreateBoard.class
-com\trello\api\Config\TrelloConfig.class
-com\trello\api\DeleteBoard.class
-com\trello\api\AppTest.class
