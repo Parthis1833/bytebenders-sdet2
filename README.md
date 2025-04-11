@@ -60,9 +60,10 @@ trello-api-testing/
 │   └── test/
 │       └── java/
 │           └── trello/
+│               └── Config/
 │               ├── CreateBoardTest.java
 │               ├── ReadBoardTest.java
 │               ├── UpdateBoardTest.java
 │               └── DeleteBoardTest.java
-├── pom.xml (or build.gradle)
+├── pom.xml 
 └── README.md
