@@ -18,8 +18,9 @@ Thumbs.db
 # === Java ===
 *.class
 
-TrelloAPITest/.vscode/
-TrelloAPITest/target/
+TrelloAPITest/.vscode
+
+TrelloAPITest/target
 
 # === Backup files ===
 *~
