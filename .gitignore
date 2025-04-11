@@ -1,0 +1,36 @@
+# === Maven ===
+/target/
+
+# === IntelliJ IDEA ===
+/.idea/
+/*.iml
+
+# === VS Code ===
+.vscode/
+
+# === Logs ===
+*.log
+
+# === OS-generated files ===
+.DS_Store
+Thumbs.db
+
+# === Java ===
+*.class
+
+# === Backup files ===
+*~
+
+# === Test reports ===
+/test-output/
+/surefire-reports/
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === API keys or secret configs ===
+.env
+*.env
+src/main/resources/secret.properties
