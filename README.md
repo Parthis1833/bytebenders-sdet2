@@ -4,7 +4,7 @@
 
 Perform **end-to-end API testing** on Trello's Board endpoints using **Postman** and **Rest Assured (Java)**.
 
-🔗 [Trello API Docs](https://trello.com/)
+🔗 [Trello API](https://trello.com/)
 
 ---
 
