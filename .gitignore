@@ -18,6 +18,9 @@ Thumbs.db
 # === Java ===
 *.class
 
+.vscode/
+target/
+
 # === Backup files ===
 *~
 

@@ -1,5 +1,0 @@
-# Created at 2025-04-11T14:45:44.387
-Boot Manifest-JAR contains absolute paths in classpath 'E:\SDET-2\TrelloAPITest\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
