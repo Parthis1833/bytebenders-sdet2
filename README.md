@@ -135,6 +135,30 @@ pm.test("Response schema is valid", function () {
 
 ## Rest Assured (Java)
 
+##Run test API
+
+**Run the CreateBoard test:**
+
+```mvn test -Dtest=CreateBoard```
+
+**Run the ReadBoard test:**
+
+```mvn test -Dtest=ReadBoard```
+
+**Run the ReadAllBoards test:**
+
+```mvn test -Dtest=ReadAllBoards```
+
+**Run the UpdateBoard test:**
+
+```mvn test -Dtest=UpdateBoard```
+
+**Run the DeleteBoard test:**
+
+```mvn test -Dtest=DeleteBoard```
+
+---
+
 ## 📁 Project Structure (Automated Testing)
 
 ```bash
