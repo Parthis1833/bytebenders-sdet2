@@ -52,6 +52,6 @@ public class ReadAllBoards {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.writeValue(new File(BOARD_FILE_PATH), boardDetails);
 
-        System.out.println("✅ Board details saved to: " + BOARD_FILE_PATH);
+        System.out.println(" Board details saved to: " + BOARD_FILE_PATH);
     }
 }
