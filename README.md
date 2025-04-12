@@ -37,7 +37,7 @@ The goal is to perform comprehensive testing of Trello’s Board functionalities
 | **Postman**    | Manual API Testing                     |
 | **Rest Assured (Java)** | Automated API Testing Framework    |
 | **Java SDK**   | Development Runtime                    |
-| **Maven/Gradle** | Build Tool & Dependency Management    |
+| **Maven**      | Build Tool & Dependency Management    |
 
 ---
 
